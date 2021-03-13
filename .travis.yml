@@ -1,0 +1,7 @@
+language: python 
+
+install:   
+  - pip3 install flask
+
+script:
+  - python3 ./my_lab_3/index.py
